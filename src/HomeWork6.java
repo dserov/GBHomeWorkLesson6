@@ -3,6 +3,7 @@
  *
  * @author DSerov
  * @version dated 16 Feb, 2018
+ * @link https://github.com/dserov/GBHomeWorkLesson6
  */
 public class HomeWork6 {
     public static void main(String[] args) {

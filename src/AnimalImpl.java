@@ -1,3 +1,9 @@
+/**
+ * Class AnimalImpl
+ * @author DSerov
+ * @version dated 16 Feb, 2018
+ * @link https://github.com/dserov/GBHomeWorkLesson6
+ */
 abstract public class AnimalImpl implements IAnimal{
     protected int maxRunDistance = 0;
     protected float maxJumpHeight = 0;
